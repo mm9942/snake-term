@@ -6,7 +6,8 @@ A terminal-based snake game implemented in Rust.
 
 Snake-Term is a fun and interactive way to kill some time right within your terminal. Navigate the snake (represented by '@') through the grid to eat the food, and grow longer with each bite. But don't run into the walls or yourself, or it's game over!
 
-![Bildschirmfoto 2023-11-04 um 07 28 51](https://github.com/mm9942/snake/assets/149858635/d09834ca-afd9-4296-894d-0636d559f634)
+![Bildschirmfoto 2023-11-04 um 07 28 51](https://github.com/mm9942/snake/assets/149858635/84059677-431f-4699-979c-c29ad3e34226)
+
 
 ## Features
 - Smooth controls with arrow keys.
